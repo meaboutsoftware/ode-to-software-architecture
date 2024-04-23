@@ -1,6 +1,6 @@
 # Ode To Software Architecture Resources
 
-## STEP 3: Do Not Forget About Infrastructure
+## STEP 7: Develop Your Software
 
 **DORA:**
 - https://octopus.com/devops/metrics/dora-metrics/
